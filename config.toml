@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The "title" of your website
-title = ""
+title = "Urmel Kinderladen e.V."
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
@@ -17,7 +17,7 @@ title = ""
     copyright = ""
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = ""
+    description = "Urmel Kinderladen e.V."
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
