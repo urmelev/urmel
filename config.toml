@@ -1,4 +1,4 @@
-baseURL = "https://urmel.netlify.app"
+baseURL = "/"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["taxonomy", "term", "RSS", "robotsTXT"]
