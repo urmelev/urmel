@@ -4,7 +4,7 @@ weight: 2
 header_menu: true
 ---
 
-Wir werden folgende freie Plätze in unserem Kinderladen haben:
+Folgende Plätze werden in unserem Kinderladen frei:
 - im Februar 2026: für ein Kind geboren zwischen August 2023 und April 2024
 - im August 2026: für ein Kind geboren zwischen Februar 2024 bis Oktober 2024
 
