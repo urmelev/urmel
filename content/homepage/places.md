@@ -1,6 +1,6 @@
 ---
 title: "Plätze"
-weight: 5
+weight: 2
 header_menu: true
 ---
 
