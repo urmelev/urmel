@@ -4,9 +4,8 @@ weight: 2
 header_menu: true
 ---
 
-Folgende Plätze werden in unserem Kinderladen frei:
-- im Februar 2026: für ein Kind geboren zwischen August 2023 und April 2024
-- im August 2026: für ein Kind geboren zwischen Februar 2024 bis Oktober 2024
+Folgender Platz wird in unserem Kinderladen frei:
+- im August 2026: für ein Kind geboren zwischen Oktober 2023 bis November 2024
 
 Bitte schreibt uns bei Interesse eine [Mail](mailto:warteliste@urmel-kinderladen.de?subject=Platzanfrage%20Urmel%20[Vor-%20und%20Nachname%20des%20Kindes,%20Geburtsdatum]) mit Angaben zum Namen und Alter Eures Kindes. Schreibt uns auch gerne kurz, warum ihr Teil unserer Elterninitiative werden möchtet.
 
